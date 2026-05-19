@@ -1,0 +1,5 @@
+*.ipynb linguist-detectable=false
+*.pbix linguist-detectable=false
+git add .
+git commit -m "Updated language detection"
+git push
