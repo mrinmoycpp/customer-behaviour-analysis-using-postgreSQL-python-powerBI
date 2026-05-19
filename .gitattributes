@@ -3,3 +3,6 @@
 git add .
 git commit -m "Updated language detection"
 git push
+*.pbix linguist-detectable=false
+*.csv linguist-detectable=false
+*.ipynb linguist-detectable=false
