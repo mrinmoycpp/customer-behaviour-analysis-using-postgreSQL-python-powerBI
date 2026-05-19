@@ -1,6 +1,5 @@
-git add .
-git commit -m "Updated language detection"
-git push
 *.pbix linguist-detectable=false
 *.csv linguist-detectable=false
-*.ipynb linguist-detectable=false
+git add .
+git commit -m "Fix GitHub language detection"
+git push
