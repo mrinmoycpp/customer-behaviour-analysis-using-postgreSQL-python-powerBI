@@ -1,5 +1,0 @@
-*.pbix linguist-detectable=false
-*.csv linguist-detectable=false
-git add .
-git commit -m "Fix GitHub language detection"
-git push
